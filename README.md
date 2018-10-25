@@ -1,4 +1,4 @@
-# GCI18-NewRepo
+# MALAYSIA :malaysia:
 This site is created for you to know about [Malaysia](https://en.wikipedia.org/wiki/Malaysia)
 
 ## **_WHERE IS MALAYSIA?_**
